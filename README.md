@@ -152,22 +152,6 @@ This eliminates the need for four separate report pages — one dashboard surfac
    - Update the path to `BlinkIT_Grocery_Data.xlsx` on your machine
    - `Close & Apply → Refresh`
 
-4. **Publish to Power BI Service** *(optional)*
-   - Click `Publish` in the Home ribbon → select your workspace
-   - 🔗 [View Live Report](#) *(add your published link here)*
-
----
-
-## 📁 Repository Structure
-
-```
-📦 blinkit-powerbi-dashboard
-├── 📊 BlinkIT_Dashboard.pbix          # Power BI report file
-├── 📄 BlinkIT_Grocery_Data.xlsx       # Source dataset — 8,523 records × 12 columns
-├── 🖼️ blinkit.JPG                     # Dashboard preview screenshot
-└── 📝 README.md
-```
-
 ---
 
 ## 💡 Key Business Insights
@@ -191,8 +175,7 @@ Data Analyst | Power BI · SQL · Python · Tableau
 
 - 📧 [your-email@example.com](mailto:gayatrijangam6@gmail.com)
 - 💼 [LinkedIn](www.linkedin.com/in/gayatri-mallaya-jangam-offcial)
-- 🐙 [GitHub](https://github.com/your-username)
-- 📊 [Power BI Published Report](#)
+- 🐙 [GitHub](https://github.com/Gayatri-1234)
 
 ---
 
