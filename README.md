@@ -172,9 +172,9 @@ This eliminates the need for four separate report pages — one dashboard surfac
 **[Gayatri Jangam]**  
 Data Analyst | Power BI · SQL · Python · Tableau
 
-- 📧 (mailto:gayatrijangam6@gmail.com)
+- 📧 (mailto:gayatrijangam6@gmail.com) Gmail
 - 💼 (www.linkedin.com/in/gayatri-mallaya-jangam-offcial)
-- 🐙 (https://github.com/Gayatri-1234)
+- 🐙 (https://github.com/Gayatri-1234) GitHub
 
 ---
 
