@@ -138,8 +138,7 @@ This eliminates the need for four separate report pages — one dashboard surfac
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/blinkit-powerbi-dashboard.git
-   cd blinkit-powerbi-dashboard
+   git clone https:https://github.com/Gayatri-1234/Blinkit-Retail-Intelligence-Dashboard
    ```
 
 2. **Open the report**
@@ -173,9 +172,9 @@ This eliminates the need for four separate report pages — one dashboard surfac
 **[Gayatri Jangam]**  
 Data Analyst | Power BI · SQL · Python · Tableau
 
-- 📧 [your-email@example.com](mailto:gayatrijangam6@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/gayatri-mallaya-jangam-offcial)
-- 🐙 [GitHub](https://github.com/Gayatri-1234)
+- 📧 (mailto:gayatrijangam6@gmail.com)
+- 💼 (www.linkedin.com/in/gayatri-mallaya-jangam-offcial)
+- 🐙 (https://github.com/Gayatri-1234)
 
 ---
 
